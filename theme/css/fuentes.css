@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'helvetica45';
+	src: url('../tipos/helveticaneueltpro-lt-webfont.eot');
+	src: url('../tipos/helveticaneueltpro-lt-webfont.eot?#iefix') format('embedded-opentype'),  url('../tipos/helveticaneueltpro-lt-webfont.woff') format('woff'),  url('../tipos/helveticaneueltpro-lt-webfont.ttf') format('truetype'),  url('../tipos/helveticaneueltpro-lt-webfont.svg#helvetica45') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'helvetica55';
+	src: url('../tipos/helveticaneueltpro-roman-webfont.eot');
+	src: url('../tipos/helveticaneueltpro-roman-webfont.eot?#iefix') format('embedded-opentype'),  url('../tipos/helveticaneueltpro-roman-webfont.woff') format('woff'),  url('../tipos/helveticaneueltpro-roman-webfont.ttf') format('truetype'),  url('../tipos/helveticaneueltpro-roman-webfont.svg#helvetica55') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'helvetica65';
+	src: url('../tipos/helveticaneueltpro-md-webfont.eot');
+	src: url('../tipos/helveticaneueltpro-md-webfont.eot?#iefix') format('embedded-opentype'),  url('../tipos/helveticaneueltpro-md-webfont.woff') format('woff'),  url('../tipos/helveticaneueltpro-md-webfont.ttf') format('truetype'),  url('../tipos/helveticaneueltpro-md-webfont.svg#helvetica65') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
